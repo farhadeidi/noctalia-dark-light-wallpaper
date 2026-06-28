@@ -6,6 +6,12 @@ supported compositor). A tiny, dependency-free POSIX-sh helper that remembers a
 **separate wallpaper for dark and light mode** — set a different background for
 each theme and it switches automatically.
 
+## Demo
+
+![Noctalia per-mode wallpaper demo: the wallpaper changes automatically when toggling between dark and light theme mode](demo.gif)
+
+*Toggling theme mode swaps the wallpaper automatically — each mode keeps its own.*
+
 > Keywords: noctalia, noctalia v5, noctalia shell, wallpaper, dark mode, light
 > mode, dark/light wallpaper, automatic wallpaper switcher, theme-aware wallpaper,
 > per-mode wallpaper, wayland, hyprland, niri, quickshell, ricing, linux desktop,
